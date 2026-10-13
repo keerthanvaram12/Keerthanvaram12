@@ -1,16 +1,13 @@
-## Hi there 👋
+🌸 About Me
 
-<!--
-**keerthanvaram12/Keerthanvaram12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Keerthana, an Electronics and Communication Engineering (ECE) student. I'm passionate about learning new technologies, improving my programming skills, and building my future career.
 
-Here are some ideas to get you started:
+📚 Education: B.Tech – Electronics and Communication Engineering (ECE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently Learning: Python programming, Digital Electronics, and new technologies.
+
+🎯 Career Goal: To build a successful career in the technology industry and become a skilled engineer.
+
+🌱 My Strength: I'm always willing to learn, improve, and keep trying even when something is difficult.
+
+✨ Learning every day, growing every step, and working towards my dreams. 🚀
